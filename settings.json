@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nolife3.aternos.me:31770",
-    "port": 31770,
+    "ip": "HANNIBALSMP.play.hosting",
+    "port": 59635,
     "version": "1.21.11",
     "try-creative": false
   },
